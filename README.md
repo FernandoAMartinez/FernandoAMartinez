@@ -1,5 +1,13 @@
-### Hi there 👋
+ # Hi there 👋 
+ 
+I'm _Fernando Martinez_ an SAP ISU Consultant @ [Accenture](http://www.accenture.com) and a Software Engeniering Student @ [Universidad Abierta Interamericana](http://uai.edu.ar).
+Since my studies, I'd liked to learn a lot from the world of developing, and now i'm learning .NET Core's Blazor and Python.
 
+## 📫 How to reach me:
+  - :camera: [Instagram](http://instagram.com/ferchomartinez)
+  - :briefcase: [Linked In](https://www.linkedin.com/in/fernando-amartinez/)
+  - :email: [Email Me](fernandomartinez0295@gmail.com)
+ 
 <!--
 **FernandoAMartinez/FernandoAMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
