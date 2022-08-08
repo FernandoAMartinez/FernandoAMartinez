@@ -1,7 +1,19 @@
  # Hi there 👋 
  
-I'm _Fernando Martinez_ an SAP ISU Consultant @ [Accenture](http://www.accenture.com) and a Software Engeniering Student @ [Universidad Abierta Interamericana](http://uai.edu.ar).
-Since my studies, I'd liked to learn a lot from the world of developing, and now i'm learning .NET Core's Blazor and Python.
+I'm _Fernando Martinez_ an SAP FI-CA Consultant @ [Geonosis](http://www.geonosis.com.ar/) and a Software Engeniering Student @ [Universidad Abierta Interamericana](http://uai.edu.ar).
+Since my studies, I'd liked to learn a lot from the world of programming. Currently  i'm learning C# .NET with Blazor and Minimal API's development. I got some knowledge of Python and JavaScript.
+
+## ⚡ Professional Experience
+  - **2022** [Geonosis](http://www.geonosis.com.ar/) 
+    - SAP FI-CA Consultant for Implementation Project for important logistics enterprise in Buenos Aires, Argentina
+    - Learning integration with SAP CI (Convergent Invoicing)
+    
+  - **2016 - 2022** [Accenture Argentina](https://www.accenture.com/ar-es) 
+    - SAP FI-CA Consultant for Utilities Industries in Implementation Project for a great Electricity Service Provider in Buenos Aires, Argentina
+    - Knowledge of FI-CA Localization for Argentina Taxes Process  
+    - Building of Functional Desings and Testings alongside with the client
+    - Development of Store Procedures in SQL HANA Studio for custom reports
+    - Design of SOAP interfaces for integration with other systems
 
 ## 📫 How to reach me:
   - :camera: [Instagram](http://instagram.com/ferchomartinez)
