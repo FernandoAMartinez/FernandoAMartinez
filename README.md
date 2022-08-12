@@ -15,6 +15,18 @@ Since my studies, I'd liked to learn a lot from the world of programming. Curren
     - Development of Store Procedures in SQL HANA Studio for custom reports
     - Design of SOAP interfaces for integration with other systems
 
+## 💻 Tech Knowledge
+  - **Programming Languages**:
+    - **.NET** understanding from NET Framework to NET Core in C#, VB.NET
+    - **Python**
+    - **JavaScript** (Vanilla + Node.JS)
+  - **Infrastructure**
+    - **Cloud** understanding for deploy of services  
+    - **Docker** understanding, capable to mount basic containers to host applications
+
+## 📊 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoAMartinez&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 How to reach me:
   - :camera: [Instagram](http://instagram.com/ferchomartinez)
   - :briefcase: [Linked In](https://www.linkedin.com/in/fernando-amartinez/)
