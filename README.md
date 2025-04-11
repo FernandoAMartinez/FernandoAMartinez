@@ -1,7 +1,7 @@
  # Hi there 👋 
  
-I'm _Fernando Martinez_ an SAP FI-CA Consultant @ [Geonosis](http://www.geonosis.com.ar/). I got a Software Engineering degree @ [Universidad Abierta Interamericana](http://uai.edu.ar).
-Since my studies, I'd liked to learn a lot from the world of programming. Currently  i'm learning C# .NET with Blazor and Minimal API's development. I got some knowledge of Python and JavaScript.
+I'm _Fernando Martinez_ an SAP FI-CA Consultant and Team Leader @ [Geonosis](http://www.geonosis.com.ar/). I got a Software Engineering degree @ [Universidad Abierta Interamericana](http://uai.edu.ar).
+Since my studies, I'd liked to learn a lot from the world of programming. Currently  i'm improving my .NET knowledge, practicing with Blazor and Minimal API's development. I got some knowledge of Python and JavaScript.
 
 ## ⚡ Professional Experience
   - **2022** [Geonosis](http://www.geonosis.com.ar/) 
